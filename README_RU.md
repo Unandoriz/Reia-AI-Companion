@@ -14,7 +14,7 @@
 
 <a href="https://github.com/Unandoriz/Reia-AI-Companion/releases/latest"><img src="assets/buttons/download-ru.svg" alt="Скачать для Windows"></a>
 <a href="https://discord.gg/yxjzyfT3hP"><img src="assets/buttons/discord.svg" alt="Discord"></a>
-<a href="SUPPORT.md"><img src="assets/buttons/support-ru.svg" alt="Поддержать проект"></a>
+<a href="SUPPORT_RU.md"><img src="assets/buttons/support-ru.svg" alt="Поддержать проект"></a>
 
 <br>
 
@@ -196,7 +196,7 @@ Reia — компаньон для рабочего стола с живым т�
 
 - **[Discord](https://discord.gg/yxjzyfT3hP)** — вопросы, ошибки, идеи и скриншоты ваших компаньонов.
 - **[Issues](https://github.com/Unandoriz/Reia-AI-Companion/issues)** — если что-то сломалось, опишите, что вы делали и что произошло.
-- **[Поддержать проект](SUPPORT.md)** — Reia делает один человек, и любая помощь помогает ей расти.
+- **[Поддержать проект](SUPPORT_RU.md)** — Reia делает один человек, и любая помощь помогает ей расти.
 
 ## На чём сделано
 
