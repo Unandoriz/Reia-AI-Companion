@@ -205,7 +205,7 @@ Reia — компаньон для рабочего стола с живым т�
 [llama.cpp](https://github.com/ggml-org/llama.cpp) ·
 [whisper.cpp](https://github.com/ggml-org/whisper.cpp) ·
 [Piper](https://github.com/rhasspy/piper) ·
-Qwen3-TTS ·
+[Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) ·
 [Rhubarb Lip Sync](https://github.com/DanielSWolf/rhubarb-lip-sync) ·
 [eSpeak NG](https://github.com/espeak-ng/espeak-ng) ·
 [Silero VAD](https://github.com/snakers4/silero-vad) ·
