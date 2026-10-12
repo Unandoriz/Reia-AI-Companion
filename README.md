@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="assets/icon.png" width="112" alt="Reia">
+<img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/icon.png" width="112" alt="Reia">
 
 # Reia
 
 **An AI companion that lives on your computer.**<br>
 She talks, remembers, changes over time — and can step out of the window onto your desktop.
 
-<a href="README.md"><img src="assets/buttons/lang-en-on.svg" alt="English"></a>
-<a href="README_RU.md"><img src="assets/buttons/lang-ru-off.svg" alt="Русский"></a>
+<a href="https://github.com/Unandoriz/Reia-AI-Companion"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/lang-en-on.svg" alt="English"></a>
+<a href="https://github.com/Unandoriz/Reia-AI-Companion/blob/site/README_RU.md"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/lang-ru-off.svg" alt="Русский"></a>
 
 <br>
 
-<a href="https://github.com/Unandoriz/Reia-AI-Companion/releases/latest"><img src="assets/buttons/download-en.svg" alt="Download for Windows"></a>
-<a href="https://discord.gg/yxjzyfT3hP"><img src="assets/buttons/discord.svg" alt="Discord"></a>
-<a href="SUPPORT.md"><img src="assets/buttons/support-en.svg" alt="Support the project"></a>
+<a href="https://github.com/Unandoriz/Reia-AI-Companion/releases/latest"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/download-en.svg" alt="Download for Windows"></a>
+<a href="https://discord.gg/yxjzyfT3hP"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/discord.svg" alt="Discord"></a>
+<a href="https://github.com/Unandoriz/Reia-AI-Companion/blob/main/SUPPORT.md"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/support-en.svg" alt="Support the project"></a>
 
 <br>
 
@@ -25,7 +25,7 @@ She talks, remembers, changes over time — and can step out of the window onto 
 
 <br>
 
-<img src="assets/screenshots/chat.png" alt="A conversation with Reia: the chat on the left, her 3D avatar on the right" width="100%">
+<img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/screenshots/chat.png" alt="A conversation with Reia: the chat on the left, her 3D avatar on the right" width="100%">
 
 </div>
 
@@ -114,16 +114,16 @@ desktop, on top of your other windows.
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/screenshots/desktop.png" alt="Reia standing on the desktop next to the app window, with a subtitle under her"></td>
-    <td width="50%"><img src="assets/screenshots/character.png" alt="The character editor"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/screenshots/desktop.png" alt="Reia standing on the desktop next to the app window, with a subtitle under her"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/screenshots/character.png" alt="The character editor"></td>
   </tr>
   <tr>
     <td align="center">On the desktop, with subtitles</td>
     <td align="center">Character editor</td>
   </tr>
   <tr>
-    <td width="50%"><img src="assets/screenshots/hardware.png" alt="Hardware detection and load presets"></td>
-    <td width="50%"><img src="assets/screenshots/voices.png" alt="Speech engines and the voice catalogue"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/screenshots/hardware.png" alt="Hardware detection and load presets"></td>
+    <td width="50%"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/screenshots/voices.png" alt="Speech engines and the voice catalogue"></td>
   </tr>
   <tr>
     <td align="center">Hardware detection and load presets</td>
@@ -194,7 +194,7 @@ opens it) and choose it in the character card.
 
 - **[Discord](https://discord.gg/yxjzyfT3hP)** — questions, bug reports, ideas and screenshots of your companions.
 - **[Issues](https://github.com/Unandoriz/Reia-AI-Companion/issues)** — if something is broken, describe what you did and what happened.
-- **[Support the project](SUPPORT.md)** — Reia is made by one person, and every bit of help keeps it growing.
+- **[Support the project](https://github.com/Unandoriz/Reia-AI-Companion/blob/main/SUPPORT.md)** — Reia is made by one person, and every bit of help keeps it growing.
 
 ## Built with
 
