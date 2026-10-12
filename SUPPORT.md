@@ -20,13 +20,9 @@ If she has been useful to you and you want her to keep growing — here is how t
 <a href="https://boosty.to/unandoriz"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/boosty-en.svg" alt="Support on Boosty"></a>
 <a href="https://discord.gg/yxjzyfT3hP"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/discord.svg" alt="Discord"></a>
 
+<sub>Boosty: a subscription or a one-time donation, Russian and international cards accepted.</sub>
+
 </div>
-
-## Boosty
-
-A subscription or a one-time donation. Russian and international cards are accepted.
-
-**[boosty.to/unandoriz](https://boosty.to/unandoriz)**
 
 ## Cryptocurrency
 
