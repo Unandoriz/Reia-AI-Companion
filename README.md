@@ -8,13 +8,13 @@
 She talks, remembers, changes over time — and can step out of the window onto your desktop.
 
 <a href="https://github.com/Unandoriz/Reia-AI-Companion"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/lang-en-on.svg" alt="English"></a>
-<a href="https://github.com/Unandoriz/Reia-AI-Companion/blob/site/README_RU.md"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/lang-ru-off.svg" alt="Русский"></a>
+<a href="https://github.com/Unandoriz/Reia-AI-Companion/tree/ru"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/lang-ru-off.svg" alt="Русский"></a>
 
 <br>
 
 <a href="https://github.com/Unandoriz/Reia-AI-Companion/releases/latest"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/download-en.svg" alt="Download for Windows"></a>
 <a href="https://discord.gg/yxjzyfT3hP"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/discord.svg" alt="Discord"></a>
-<a href="https://github.com/Unandoriz/Reia-AI-Companion/blob/main/SUPPORT.md"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/support-en.svg" alt="Support the project"></a>
+<a href="https://github.com/Unandoriz/Reia-AI-Companion/tree/support"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/support-en.svg" alt="Support the project"></a>
 
 <br>
 
@@ -194,7 +194,7 @@ opens it) and choose it in the character card.
 
 - **[Discord](https://discord.gg/yxjzyfT3hP)** — questions, bug reports, ideas and screenshots of your companions.
 - **[Issues](https://github.com/Unandoriz/Reia-AI-Companion/issues)** — if something is broken, describe what you did and what happened.
-- **[Support the project](https://github.com/Unandoriz/Reia-AI-Companion/blob/main/SUPPORT.md)** — Reia is made by one person, and every bit of help keeps it growing.
+- **[Support the project](https://github.com/Unandoriz/Reia-AI-Companion/tree/support)** — Reia is made by one person, and every bit of help keeps it growing.
 
 ## Built with
 
