@@ -15,13 +15,9 @@ Reia бесплатна, и делает её один человек.<br>
 <a href="https://boosty.to/unandoriz"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/boosty-ru.svg" alt="Поддержать на Boosty"></a>
 <a href="https://discord.gg/yxjzyfT3hP"><img src="https://raw.githubusercontent.com/Unandoriz/Reia-AI-Companion/site/assets/buttons/discord.svg" alt="Discord"></a>
 
+<sub>Boosty — подписка или разовый донат, принимает российские и зарубежные карты.</sub>
+
 </div>
-
-## Boosty
-
-Подписка или разовый донат. Принимает российские и зарубежные карты.
-
-**[boosty.to/unandoriz](https://boosty.to/unandoriz)**
 
 ## Криптовалюта
 
